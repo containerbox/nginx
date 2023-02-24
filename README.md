@@ -1,5 +1,5 @@
 # ContainerBox
 
 
-![ContainerBox](/images/screenshot.png 'ContainerBox')
+![ContainerBox](/images/Screenshot.png 'ContainerBox')
 
