@@ -22,18 +22,12 @@ ContainerBox Project
  
  Bienvenue dans la version francaise de ce projet
  
- * Download the script.
+ * Une fois que vous avez installer containerbox .
 
-* change the file permission with 777 
 
-    ` ` ` sudo chmod 777 firstscript.sh ` ` ` 
+* Télécharger la version nginx.  
 
-* Run the script with sudo.  
-
-   ` ` ` sudo ./firstscript.sh ` ` ` 
-   
-   
-   ` ` ` docker build -t basic . ` ` ` 
+   ` ` ` git clone https://github.com/containerbox/nginx.git ` ` ` 
    
    ` ` ` docker build -t basic . ` ` ` 
    
